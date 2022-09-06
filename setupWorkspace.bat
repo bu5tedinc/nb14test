@@ -1,0 +1,1 @@
+cmd /k gradlew cleanEclipse eclipse && gradlew genEclipseRuns 

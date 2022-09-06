@@ -1,0 +1,46 @@
+//Creative Tabs --------------*
+itemGroup.tabLTMAIN=LoganTech Main
+itemGroup.tabLTMISC=LoganTech Misc
+
+//ITEMS --------------*
+
+tile.aluminum_ore.name=Aluminum Ore
+tile.titanium_ore.name=Titanium Ore
+tile.copper_ore.name=Copper Ore
+
+item.ingot_uranium.name=Uranium Ingot
+
+//BLOCKS
+tile.test.name=Test Block
+tile.pc.name=PCX100
+
+//GRINDER--------------*
+container.grinder.name=Grinder
+tile.grinder.name=Grinder
+//FERMENTER--------------*
+container.fermenter.name=Fermenter
+tile.fermenter.name=Fermenter
+
+container.roller.roll=Roll
+container.roller.rollling=Rolling
+
+//Pipes----------------*
+item.PipeFluidPrism.name=Prismarine Fluid
+
+//Fluids --------------*
+fluid.biofuel=BioFuel
+fluid.crudefluid=Crude
+fluid.lubefluid=Lube
+fluid.dieselfluid=Diesel
+fluid.gasolinefluid=Gasoline
+fluid.lpggas=Lpg
+fluid.saltbrinefluid=Salt/Brine Water
+fluid.mixedcrudefluid=Mixed Crude
+////Fluid Item --------------
+tile.logantech:crudefluid.name=Crude Oil
+tile.logantech:lubefluid.name=Lube Oil
+tile.logantech:dieselfluid.name=Diesel
+tile.logantech:gasolinefluid.name=Gasoline
+tile.logantech:lpggas.name=LPG Gas
+tile.logantech:saltbrinefluid.name=Salt Brine Water
+tile.logantech:mixedcrudefluid.name=Mixed Crude
